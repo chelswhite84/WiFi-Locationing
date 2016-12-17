@@ -88,7 +88,7 @@ TABLE NEEDED
 
 As seen above, Random Forest performed the best, which makes sense for an ensemble method. Ensemble methods combine multiple models into one unique mix, and usually results in more accuracy since the data is manipulated in a variety of ways. I then trained these well performing random forest models on the test sets to predict FLOORPOSITION. 
 
-[R Code] B1Predict<-predict(FitB1RF, newdata=B1test, interval='confidence')
+[R Code] B1Predict<-predict(FITB1RF, newdata=B1test, interval='confidence')
 
 [R Code] write.csv(B1Predict, file="B1Prediction.csv")
 
