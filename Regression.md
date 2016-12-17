@@ -19,3 +19,9 @@ TABLE NEEDED
 CHART NEEDED 
 
 The final step is to use our chosen model, the Cubist fit in this case, and predict SPACEID on the test data. 
+
+[R Code] B1Predict<-predict(FITB1CUB, newdata=B1test, interval='confidence')
+
+[R Code] write.csv(B1Predict, file="B1Prediction.csv")
+
+The predicted values can now be used to fill in the missing SPACEID data on the test set. I did this step using Excel, and the data file can be found here (link to data file). 
