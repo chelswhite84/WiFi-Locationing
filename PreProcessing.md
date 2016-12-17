@@ -39,7 +39,7 @@ TABLE NEEDED
 
 [R Code] combi$FLOORPOSITION<-((combi$FLOOR*4) + combi$FLOOR + combi$RELATIVEPOSITION) 
 
-To reduce the # of unnecessary attributes I removed FLOOR and RELATIVEPOSITION. Additionally, I removed SPACEID since this is also an attribute that needs to be predicted upon, but that is being saved for part two of the model prediction process. 
+To reduce the number of unnecessary attributes I removed FLOOR and RELATIVEPOSITION. Additionally, I removed SPACEID since this is also an attribute that needs to be predicted upon, but that is being saved for part two of the model prediction process. 
 
 [R Code] combi$FLOOR<-NULL
 
