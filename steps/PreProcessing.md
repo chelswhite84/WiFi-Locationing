@@ -37,7 +37,7 @@ So, let’s start with predicting RELATIVRPOSITION using classification. In orde
 
 Equation used: RELATIVEPOSITION * 3 + FLOOR + RELATIVEPOSITION
 
-![FLOORPOSITION Chart]()
+![FLOORPOSITION Chart](https://github.com/chelswhite84/WiFi-Locationing/blob/master/image/FLOORPOSITION.png)
  
 ```
 > combi$FLOORPOSITION<-NA
