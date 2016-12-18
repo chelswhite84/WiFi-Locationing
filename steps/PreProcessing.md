@@ -2,6 +2,8 @@
 The UJIndoorLoc data is broken into a training set and a test set, both of which were loaded into R Studio for further examination. 
 
 ```
+> set.seed(199)
+> library(caret) 
 > train <-read.csv("~/Desktop/Data Analyst/trainingData.csv")
 > test <-read.csv("~/Desktop/Data Analyst/validationData.csv")
 ```
