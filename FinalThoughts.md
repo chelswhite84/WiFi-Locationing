@@ -3,4 +3,4 @@ Although I was impressed with the results of using classification and regression
 
 Back to [Regression Models] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/Regression.md)
 
-Back to [README] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/README.md)
+Back to [Intro] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/README.md)
