@@ -86,3 +86,8 @@ The attribute BUILDINGID can now be removed, since each test set represents a bu
 [R Code] B2test$BUILDINGID<-NULL
 
 The data is now ready for model building!!! The attributes left in the train and test data has been reduced to 520 WAP readings and FLOORPOSITION, which is ideal for model building since you want to limit the data to the fewest number of actionable attributes. This usually results in the best model since what is being predicted upon, and what effects that prediction is clear. 
+
+Continue to [Classification Models] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/Classification.md)
+
+Back to [About the Data] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/AboutTheData.md)
+
