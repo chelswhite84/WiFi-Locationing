@@ -4,3 +4,7 @@
 There are a variety of indoor positioning options such as using radio waves, magnetic fields, and even acoustics, but for this project the client wants to determine if WiFi Access Point readings can be used to accurately determine a person’s location indoors, also called WiFi Fingerprinting. With this indoor positioning method, signals from multiple wireless access points within the building are used to determine a user’s location, very similar to how GPS uses satellite signals. If the models employed can with a high enough accuracy determine a person’s location indoors, they will be rolled out into a smartphone app for indoor locationing. 
 
 Currently there isn’t an agreed upon methodology for using Wireless Access Point (WAP) readings to determine a person’s location indoors. This is largely due in part to the lack of a common database for comparison purposes as well as the complexity of the data. For this project, I will be using the UJIIndoorLoc database. http://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc 
+
+Continue to [About the Data] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/AboutTheData.md)
+
+Return to [README] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/README.md)
