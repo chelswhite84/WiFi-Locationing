@@ -6,4 +6,5 @@ The UJIndoorLoc database was created in 2013 and includes over 20,000 lines of c
 
 Continue to [Pre-Processing] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/steps/PreProcessing.md)
 
+
 Back to [Background] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/steps/Background.md) 
