@@ -35,9 +35,9 @@ There are a few ways to approach this problem including just classification, jus
 
 So, let’s start with predicting RELATIVRPOSITION using classification. In order to reduce the number of attributes that impact which RELATIVEPOSITION is predicted, I combined FLOOR and RELATIVEPSOITION into a unique variable called FLOORPOSITION. This results in 7-9 unique variables, which is ideal for classification problems.  
 
-Equation used: FLOOR *4 + FLOOR + RELATIVEPOSITION
+Equation used: RELATIVEPOSITION * 3 + FLOOR + RELATIVEPOSITION
 
-![FLOORPOSITION Chart](https://github.com/chelswhite84/WiFi-Locationing/blob/master/image/FLOORPOSITIONChart.png)
+![FLOORPOSITION Chart]()
  
 ```
 > combi$FLOORPOSITION<-NA
