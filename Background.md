@@ -5,6 +5,6 @@ There are a variety of indoor positioning options such as using radio waves, mag
 
 Currently there isn’t an agreed upon methodology for using Wireless Access Point (WAP) readings to determine a person’s location indoors. This is largely due in part to the lack of a common database for comparison purposes as well as the complexity of the data. For this project, I will be using the UJIIndoorLoc database. http://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc 
 
-Continue to [About the Data] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/AboutTheData.md)
+Continue to [About the Data] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/steps/AboutTheData.md)
 
 Return to [Intro] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/README.md)
