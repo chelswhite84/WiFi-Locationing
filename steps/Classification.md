@@ -94,7 +94,7 @@ As seen above, Random Forest performed the best, which makes sense for an ensemb
 
 The predicted values can now be used to fill in the missing data on the test set. I did this step using Excel. The new FLOORPOSITION vales are added as a new column, and can now be converted to the correct RELATIVEPOSITION based on the chart shown in PRE-PROCESSING (link to page) above to get the full results.
 
-Continue to [Regression Models] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/Regression.md)
+Continue to [Regression Models] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/steps/Regression.md)
 
-Back to [Pre-Processing] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/PreProcessing.md)
+Back to [Pre-Processing] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/steps/PreProcessing.md)
 
