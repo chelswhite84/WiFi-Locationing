@@ -1,5 +1,5 @@
 # WiFi-Locationing
-Tackling a Big Data Problem to determine how Classification and Regression can be used to predict where a person is located indoors. 
+Tackling a Big Data Problem to determine how Classification and Regression can be used to predict where a person is located indoors. View the following pages to see how I tackled the problem by subseting the data, cleaning up attributes, creating a new attributes, and breaking the predictions into two steps using first Classification and then Regression. 
 
 [Background] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/Background.md)
 
