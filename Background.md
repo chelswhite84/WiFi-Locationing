@@ -7,4 +7,4 @@ Currently there isn’t an agreed upon methodology for using Wireless Access Poi
 
 Continue to [About the Data] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/AboutTheData.md)
 
-Return to [README] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/README.md)
+Return to [Intro] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/README.md)
