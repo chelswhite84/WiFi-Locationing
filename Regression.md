@@ -13,7 +13,7 @@ First, I took a sample of 1000, as I did with the classification models, to see 
 
 Since this is a regression problem, instead of an accuracy rate, the model performance can be compared using r-squared values. As shown in the table below, the Cubist model performed the best across all buildings, so will be used to predict SPACEID on the set aside test set. 
 
-![Regression Model Results] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/image/RegressionResults.png)
+![Regression Model Results] 
 
 ![Regression Model Chart] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/image/RegressionChart.png)
 
