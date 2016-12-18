@@ -52,10 +52,10 @@ To reduce the number of unnecessary attributes I removed FLOOR and RELATIVEPOSIT
 > combi$SPACEID <-NULL
 ```
 
-The attribute FLOORPOSITION also needs to be converted into a factor since this is a classification problem. 
+The attribute FLOORPOSITION also needs to be converted into a character since this is a classification problem. 
 
 ```
-> combi$FLOORPOSITION<-as.factor(combi$FLOORPOSITION)
+> combi$FLOORPOSITION<-as.character(combi$FLOORPOSITION)
 ```
 
 The data is now ready to be broken out into the original, but altered train and test sets. 
