@@ -1,7 +1,7 @@
 #CLASSIFICATION MODELS 
 To confirm that the classification models I have chosen, M5Prime, Random Forest, and Support Vector Machines will run correctly with my data I want to first create a sample size of 1000 random observations. I’m only going to do this for one building since all the data is set up the same, and what works on one building will work on the other two. 
 ```
-> SAMPLEB0<-B0train[sample(1:nrow(B0train), 1000, replace =FALSE_,]
+> SAMPLEB0<-B0train[sample(1:nrow(B0train), 1000, replace =FALSE_),]
 ```
 
 I then need to break this sample data into a train set and a test set, so I will first set the parameters for the train and test set size. 
