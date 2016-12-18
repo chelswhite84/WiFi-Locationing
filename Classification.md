@@ -83,7 +83,7 @@ A fit control is already set up, so no need to create that again. So now we can 
 
 The accuracy results of each model per building are shown below: 
 
-![ClassificationModelResults](https://github.com/chelswhite84/WiFi-Locationing/blob/master/ClassificationResults.png)
+![ClassificationModelResults](https://github.com/chelswhite84/WiFi-Locationing/blob/master/image/ClassificationResults.png)
 
 
 As seen above, Random Forest performed the best, which makes sense for an ensemble method. Ensemble methods combine multiple models into one unique mix, and usually results in more accuracy since the data is manipulated in a variety of ways. I then trained these well performing random forest models on the test sets to predict FLOORPOSITION. 
