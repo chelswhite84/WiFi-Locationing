@@ -8,7 +8,7 @@ I then need to break this sample data into a train set and a test set, so I will
 
 ```
 > trainSize<-round(nrow(SAMPLEB0) * 0.7) 
-> testSize<-round(nrow(SAMPLEB0) – trainSize) 
+> testSize<-round(nrow(SAMPLEB0)-trainSize) 
 ```
 
 Then to ensure the train and test sets are randomly sampled a training indice will be created. 
