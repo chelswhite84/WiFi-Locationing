@@ -80,7 +80,7 @@ A fit control is already set up, so no need to create that again. So now we can 
 > FITB1RF<-train(FLOORPOSITION~., data= B1trainSet, method = “rf”, trControl = fitControl) 
 > FITB1SVM<-train(FLOORPOSITION~., data= B1trainSet, method = “svmPoly”, trControl = fitControl) 
 ```
-The accuracy results of each model per building are shown below: 
+Once the models run, I ran a postResample and confusionMatrix. The accuracy results of each model per building are shown below: 
 
 ![ClassificationModelResults](https://github.com/chelswhite84/WiFi-Locationing/blob/master/image/ClassificationResults.png)
 
