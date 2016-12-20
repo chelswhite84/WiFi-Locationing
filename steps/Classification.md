@@ -90,7 +90,7 @@ As seen above, Random Forest performed the best, which makes sense for an ensemb
 > B1Predict<-predict(FITB1RF, newdata=B1test, interval='confidence')
 > write.csv(B1Predict, file="B1Prediction.csv")
 ```
-The predicted values can now be used to fill in the missing data on the test set. In order to perfom the match up correctly, I broke my test data set into buildings since the results have been broken into seperate buildings. I matched up the new FLOORPOSITION values using Excel, and created a new column that can now be converted to the correct RELATIVEPOSITION based on the chart shown in [PRE-PROCESSING] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/steps/PreProcessing.md).
+The predicted values can now be used to fill in the missing data on the test set. In order to perfom the match up correctly, I broke my test data set into buildings since the results have been broken into seperate buildings. I matched up the new FLOORPOSITION values using Excel, and created a new column that can now be converted to the correct RELATIVEPOSITION based on the chart shown in [Pre-Processing] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/steps/PreProcessing.md).
 
 Continue to [Regression Models] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/steps/Regression.md)
 
