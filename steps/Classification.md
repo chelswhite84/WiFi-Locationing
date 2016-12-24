@@ -92,6 +92,8 @@ As seen above, Random Forest performed the best, which makes sense for an ensemb
 ```
 The predicted values can now be used to fill in the missing data on the test set. In order to perfom the match up correctly, I broke my test data set into buildings since the results have been broken into seperate buildings. I matched up the new FLOORPOSITION values using Excel, and created a new column that can now be converted to the correct RELATIVEPOSITION based on the chart shown in [Pre-Processing] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/steps/PreProcessing.md).
 
+The updated Test file can be viewed in Google Drive [HERE] (https://docs.google.com/spreadsheets/d/1kZnxni9d_nop15feyvbiutFA-UE4dEv81iO-xPYIMUM/edit#gid=2019684365)
+
 Continue to [Regression Models] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/steps/Regression.md)
 
 Back to [Pre-Processing] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/steps/PreProcessing.md)
