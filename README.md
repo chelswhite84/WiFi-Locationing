@@ -13,3 +13,5 @@ Tackling a Big Data problem to determine how Classification and Regression can b
 
 [Final Thoughts] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/steps/FinalThoughts.md)
 
+
+To present these findings to interested parties, I have also created a [PowerPoint presentation] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/WiFiLocationing%20Presentation.pptx). 
