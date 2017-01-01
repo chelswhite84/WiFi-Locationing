@@ -20,7 +20,7 @@ The final step is to use our chosen model, the Cubist fit in this case, and pred
 > B1Predict<-predict(FITB1CUB, newdata=B1test, interval='confidence')
 > write.csv(B1Predict, file="B1Prediction.csv")
 ```
-The predicted values can now be used to fill in the missing SPACEID data on the test set. I did this step using Excel, and the data file can be found here (link to data file). 
+The predicted values can now be used to fill in the missing SPACEID data on the test set. I did this step using Excel, and the data file can be found here (link to data file). The values returned for SPACEID will have decimal values, so these should be rounded to the nearest whole number. Additionally, any SPACEID that doesn't match up with a current known value can be run through the model again. This second run resulted in 5-7% of the incorrect data showing more accurate values, which seems significant. Perhaps examining these specific instances further could bring some insight into where errors may be occuring. 
 
 The finalized Test file can be viewed [HERE](https://docs.google.com/spreadsheets/d/1MUvm-BBUuXAaVgt9Hqee0C7TNPApVKmKrsPDzQsPzvw/edit#gid=0) on Google Drive. 
 
