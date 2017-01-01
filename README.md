@@ -13,5 +13,6 @@ Tackling a deep analytics problem to determine how Classification and Regression
 
 [Final Thoughts] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/steps/FinalThoughts.md)
 
+My full R Script can be viewed [HERE] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/WiFiRScript.R) 
 
 To present these findings to interested parties, I have also created a [PowerPoint presentation] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/WiFiLocationing%20Presentation.pptx). 
