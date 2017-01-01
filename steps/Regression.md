@@ -22,6 +22,8 @@ The final step is to use our chosen model, the Cubist fit in this case, and pred
 ```
 The predicted values can now be used to fill in the missing SPACEID data on the test set. I did this step using Excel, and the data file can be found here (link to data file). 
 
+The finalized Test file can be viewed [HERE](https://docs.google.com/spreadsheets/d/1MUvm-BBUuXAaVgt9Hqee0C7TNPApVKmKrsPDzQsPzvw/edit#gid=0) on Google Drive. 
+
 Continue to [Final Thoughts] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/steps/FinalThoughts.md)
 
 Back to [Classification Models] (https://github.com/chelswhite84/WiFi-Locationing/blob/master/steps/Classification.md)
